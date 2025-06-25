@@ -1,0 +1,1 @@
+select current_database() db,current_user() us,current_schema() sc,current_warehouse() wh
